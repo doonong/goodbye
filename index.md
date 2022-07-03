@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/doonong/goodbye/blob/gh-pages/invert1.jpg?raw=true" alt="Your image title" width="250"/>
+<img src="https://github.com/doonong/goodbye/blob/gh-pages/invert1.jpg?raw=true" alt="Your image title" width="150"/>
 </p>
 
 ## An Important (And Difficult) Customer Notice:
